@@ -1,5 +1,5 @@
 # Katılımcılar
 
-- Feyyaz Numan Cavlak
+- Feyyaz
 - Mehmet Göktuğ Karoğlu
 - Meriç Cintosun
